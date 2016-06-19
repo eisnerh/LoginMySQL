@@ -1,0 +1,10 @@
+c:\users\eisne\documents\visual studio 2015\Projects\LoginMySQL\LoginMySQL\bin\Debug\LoginMySQL.exe.config
+C:\Users\eisne\Documents\Visual Studio 2015\Projects\LoginMySQL\LoginMySQL\bin\Debug\LoginMySQL.exe
+C:\Users\eisne\Documents\Visual Studio 2015\Projects\LoginMySQL\LoginMySQL\bin\Debug\LoginMySQL.pdb
+C:\Users\eisne\Documents\Visual Studio 2015\Projects\LoginMySQL\LoginMySQL\obj\Debug\LoginMySQL.csprojResolveAssemblyReference.cache
+C:\Users\eisne\Documents\Visual Studio 2015\Projects\LoginMySQL\LoginMySQL\obj\Debug\LoginMySQL.frmLogin.resources
+C:\Users\eisne\Documents\Visual Studio 2015\Projects\LoginMySQL\LoginMySQL\obj\Debug\LoginMySQL.Properties.Resources.resources
+C:\Users\eisne\Documents\Visual Studio 2015\Projects\LoginMySQL\LoginMySQL\obj\Debug\LoginMySQL.csproj.GenerateResource.Cache
+C:\Users\eisne\Documents\Visual Studio 2015\Projects\LoginMySQL\LoginMySQL\obj\Debug\LoginMySQL.exe
+C:\Users\eisne\Documents\Visual Studio 2015\Projects\LoginMySQL\LoginMySQL\obj\Debug\LoginMySQL.pdb
+C:\Users\eisne\Documents\Visual Studio 2015\Projects\LoginMySQL\LoginMySQL\bin\Debug\MySql.Data.dll
